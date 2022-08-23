@@ -1,3 +1,4 @@
+![Abhay Gupta Banner Image](./banner.png)
 <!-- <h2 align='center'>Abhay Gupta @ abhay-ctrl</h2>
 <p align="center"><b>B.Tech Cse Student at KIIT, Bhubaneswar</ b></p> -->
 
