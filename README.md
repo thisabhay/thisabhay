@@ -1,21 +1,20 @@
-![Abhay Gupta Banner Image](./banner.png)
+![Abhay Gupta Banner Image](./banner.gif)
 <!-- <h2 align='center'>Abhay Gupta @ abhay-ctrl</h2>
 <p align="center"><b>B.Tech Cse Student at KIIT, Bhubaneswar</ b></p> -->
-
-<h2>Hey! 👋</h2>
-
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=abhay-ctrl.abhay-ctrl)](https://github.com/abhay-ctrl) [![GitHub followers](https://img.shields.io/github/followers/abhay-ctrl.svg?style-social&label-Follow&maxAge=2592000)](https://github.com/abhay-ctrl?tab=followers) <img src="https://img.shields.io/github/stars/abhay-ctrl?label=stars" alt="stars">
 
-<b>I'm Abhay Gupta!</b>
+<h2><i>Howdy, It's Abhay Gupta!</h2></i>
+
 - <b><i>Currently🍃:</i></b> CSE Student at KIIT at Bhubaneswar.
 - <b><i>Learning📔:</i></b> C Programming Language.
 
-<h4>👀 GitHub Stats</h4>
+<h2><i>👀 GitHub Stats</i></h2>
 
 ![Abhay Gupta's Stats](https://github-readme-stats.vercel.app/api?username=abhay-ctrl&theme=dark&show_icons=true) 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhay-ctrl&theme=dark" alt="mystreak"/>
 
-<h4>About Abhay⚡</h4>
+
+<h2><i>About Abhay⚡</i></h2>
 I'm a Graduating Student living in Bhubaneswar,India. Outside Tech, I love to read, enjoy bit of gaming and explore nature outdoors. If you want to connect drop an email and let's catch-up over meeting !
  
 - <b>Check out On Youtube</b>: https://www.youtube.com/c/BeingAbhay
