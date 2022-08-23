@@ -6,7 +6,7 @@
 <h2><i>Howdy, It's Abhay Gupta!</h2></i>
 
 - <b><i>Currently🍃:</i></b> CSE Student at KIIT at Bhubaneswar.
-- <b><i>Learning📔:</i></b> C Programming Language.
+- <b><i>Learning📔:</i></b> Programming Language.
 
 <h2><i>👀 GitHub Stats</i></h2>
 
