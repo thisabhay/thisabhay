@@ -8,7 +8,7 @@
 </h2></div>
 <div align="centre">
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=104)](https://github.com/abhay-ctrl) [![Linkedin Badge](https://img.shields.io/badge/-Abhay%20Gupta-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/abhayguptakolkata/)](https://www.linkedin.com/in/abhayguptakolkata/) [![Gmail Badge](https://img.shields.io/badge/-Mail-Red?style=social&logo=Gmail&link=abhaygupta@duck.com)](abhaygupta@duck.com) [![GitHub followers](https://img.shields.io/github/followers/abhay-ctrl?label=Followers&style=social)](https://github.com/abhay-ctrl/?tab=follow) ![Abhay Gupta](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=104)](https://github.com/abhay-ctrl) [![Linkedin Badge](https://img.shields.io/badge/-Abhay%20Gupta-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/abhayguptakolkata/)](https://www.linkedin.com/in/abhayguptakolkata/) [![Gmail Badge](https://img.shields.io/badge/-Mail-Red?style=social&logo=Gmail&link=abhaygupta@duck.com)](abhaygupta@duck.com) <a href="https://www.youtube.com/c/BeingAbhay" target="_blank"><img src="https://img.shields.io/badge/YouTube-%3333.svg?&style=circle&logo=Youtube&logoColor=white" alt="Youtube"></a> ![Abhay Gupta](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 ### Glad to see you here! [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=abhay-ctrl.abhay-ctrl)](https://github.com/abhay-ctrl) 
 
