@@ -17,7 +17,7 @@
 <li> I'm pursing under graduation in <b>B.tech CSE</b> 💻 at <b>Kalinga Institute of Industrial Technology.</b>
 <li> I'm interested in <b>Web Development</b>.
 <li> Currently learning <b>React</b>.
-<li> When I am not coding, you would find me <b>gaming 🎮</b> & interacting on <b>Discord⭐</b>
+<li> While I'm not coding, you will find me <b>gaming 🎮</b> & interacting on <b>Discord⭐</b>
 <li> Making Funny Lame Content <a href="https://www.youtube.com/c/BeingAbhay" target="_blank"><img src="https://img.shields.io/badge/YouTube-%3333.svg?&style=circle&logo=Youtube&logoColor=red" alt="Youtube"></a>
 <li> Reach out to me 📧 <b> abhaygupta@duck.com </b>
 </ul>
