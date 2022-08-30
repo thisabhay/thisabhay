@@ -1,24 +1,34 @@
 ![Abhay Gupta Banner Image](./banner.gif)
 <!-- <h2 align='center'>Abhay Gupta @ abhay-ctrl</h2>
 <p align="center"><b>B.Tech Cse Student at KIIT, Bhubaneswar</ b></p> -->
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=abhay-ctrl.abhay-ctrl)](https://github.com/abhay-ctrl) [![GitHub followers](https://img.shields.io/github/followers/abhay-ctrl.svg?style-social&label-Follow&maxAge=2592000)](https://github.com/abhay-ctrl?tab=followers) <img src="https://img.shields.io/github/stars/abhay-ctrl?label=stars" alt="stars">
+<div align='center'>
+<h2>
 
-<h2><i>Howdy, It's Abhay Gupta!</h2></i>
+    Howdy 👋 It's Abhay Gupta 
+</h2></div>
+<div align="centre">
 
-- <b><i>Currently🍃:</i></b> CSE Student at KIIT at Bhubaneswar.
-- <b><i>Learning📔:</i></b> Programming Language.
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=104)](https://github.com/abhay-ctrl) [![Linkedin Badge](https://img.shields.io/badge/-Abhay%20Gupta-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/abhayguptakolkata/)](https://www.linkedin.com/in/abhayguptakolkata/) [![Gmail Badge](https://img.shields.io/badge/-Mail-Red?style=social&logo=Gmail&link=abhaygupta@duck.com)](abhaygupta@duck.com) [![GitHub followers](https://img.shields.io/github/followers/abhay-ctrl?label=Followers&style=social)](https://github.com/abhay-ctrl/?tab=follow) ![Abhay Gupta](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-<h2><i>👀 GitHub Stats</i></h2>
+### Glad to see you here! [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=abhay-ctrl.abhay-ctrl)](https://github.com/abhay-ctrl) 
 
-![Abhay Gupta's Stats](https://github-readme-stats.vercel.app/api?username=abhay-ctrl&theme=dark&show_icons=true) 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhay-ctrl&theme=dark" alt="mystreak"/>
+</div>
+<ul>
+<li> I'm pursing under graduation in <b>B.tech CSE</b> 💻 at <b>Kalinga Institute of Industrial Technology.</b>
+<li> I'm interested in <b>Web Development</b>.
+<li> Currently learning <b>React</b>.
+<li> When I am not coding, you would find me <b>gaming 🎮</b> & interacting on <b>Discord⭐</b>
+<li> Making Funny Lame Content <a href="https://www.youtube.com/c/BeingAbhay" target="_blank"><img src="https://img.shields.io/badge/YouTube-%3333.svg?&style=circle&logo=Youtube&logoColor=red" alt="Youtube"></a>
+<li> Reach out to me 📧 <b> abhaygupta@duck.com </b>
+</ul>
 
+<h2>👀 Stats</h2>
 
-<h2><i>About Abhay⚡</i></h2>
-I'm a Graduating Student living in Bhubaneswar,India. Outside Tech, I love to read, enjoy bit of gaming and explore nature outdoors. If you want to connect drop an email and let's catch-up over meeting !
+<div>
+  <p align="center">
+   
+   ![Abhay Gupta's Stats](https://github-readme-stats.vercel.app/api?username=abhay-ctrl&theme=dark&show_icons=true) 
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhay-ctrl&theme=dark" alt="mystreak"/>
  
-- <b>Check out On Youtube</b>: https://www.youtube.com/c/BeingAbhay
-- <b>Write To Me</b>: workforabhaygupta@gmail.com
-- <b>LinkedIn </b>: https://www.linkedin.com/in/abhayguptakolkata/
-
-<a href="https://www.linkedin.com/in/abhayguptakolkata/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="workforabhaygupta@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a> <a href="https://www.youtube.com/c/BeingAbhay" target="_blank"><img src="https://img.shields.io/badge/YouTube-%3333.svg?&style=flat-square&logo=Youtube&logoColor=white" alt="Youtube"></a>
+  </p>
+</div>
