@@ -1,28 +1,22 @@
 ![Abhay Gupta Banner Image](./banner.gif)
-<!-- <h2 align='center'>Abhay Gupta @ abhay-ctrl</h2>
-<p align="center"><b>B.Tech Cse Student at KIIT, Bhubaneswar</ b></p> -->
-<div align='center'>
-<h2>
 
-    Howdy 👋 It's Abhay Gupta 
-</h2></div>
-<div align="centre">
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=104)](https://github.com/abhay-ctrl) [![Linkedin Badge](https://img.shields.io/badge/-Abhay%20Gupta-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/abhayguptakolkata/)](https://www.linkedin.com/in/abhayguptakolkata/) [![Gmail Badge](https://img.shields.io/badge/-Mail-Red?style=social&logo=Gmail&link=abhaygupta@duck.com)](abhaygupta@duck.com) <a href="https://www.youtube.com/c/BeingAbhay" target="_blank"><img src="https://img.shields.io/badge/YouTube-%3333.svg?&style=circle&logo=Youtube&logoColor=white" alt="Youtube"></a> ![Abhay Gupta](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-### Glad to see you here! [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=abhay-ctrl.abhay-ctrl)](https://github.com/abhay-ctrl) 
+<p>Welcome to my page! </br> I'm Abhay, <b>CSE</b> from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13"/> <b>Kolkata, West Bengal</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13"/> <b>Bhubaneswar, Odisha</b>.
+Pursing B.tech CSE 💻 at <b>Kalinga Institute of Industrial Technology</b> </p>
 
-</div>
-<ul>
-<li> I'm pursing under graduation in <b>B.tech CSE</b> 💻 at <b>Kalinga Institute of Industrial Technology.</b>
-<li> I'm interested in <b>Web Development</b>.
-<li> Currently learning <b>React</b>.
-<li> While I'm not coding, you will find me <b>gaming 🎮</b> & interacting on <b>Discord⭐</b>
-<li> Making Funny Lame Content 
-<a href="https://www.youtube.com/c/BeingAbhay" target="_blank"><img src="https://img.shields.io/badge/YouTube-%3333.svg?&style=circle&logo=Youtube&logoColor=red" alt="Youtube"></a>
-<li> Reach out to me 📧 <b> abhaygupta@duck.com </b>
-</ul>
+<h3>Things I code with</h3>
 
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+
+
+<h3>Where to find me</h3>
+
+<p><a href="https://github.com/abhay-ctrl" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> </a> <a href="https://www.linkedin.com/in/abhayguptakolkata" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="abhaygupta@duck.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a><a href="https://www.youtube.com/c/BeingAbhay"  target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%3333.svg?&style=for-the-badge&logo=YouTube&logoColor=Red" /></a>
+
+------------
 <h2>👀 Stats</h2>
 
 <div>
