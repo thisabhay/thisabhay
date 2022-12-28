@@ -1,5 +1,4 @@
-![Abhay Gupta Banner Image](./banner.gif)
-
+[![An image of @abhayctrl's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhayctrl)](https://holopin.io/@abhayctrl)
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
