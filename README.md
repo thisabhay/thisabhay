@@ -2,7 +2,7 @@
 
 [![An image of @abhayctrl's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhayctrl)](https://holopin.io/@abhayctrl)
 
-I'm a Computer Science and Engineering student at Kalinga Institute of Industrial Technology, currently in my second year with a CGPA of 8.27/10. I hail from Kolkata, West Bengal but am currently residing in Bhubaneswar, Odisha.
+I'm a Computer Science and Engineering student at Kalinga Institute of Industrial Technology, currently in my third year. I hail from Kolkata, West Bengal but am currently residing in Bhubaneswar, Odisha.
 
 ## 💻 Technical Skills
 
