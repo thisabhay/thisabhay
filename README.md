@@ -1,7 +1,6 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Abhay Gupta
 
 [![An image of @abhayctrl's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhayctrl)](https://holopin.io/@abhayctrl)
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=thisabhay)
 I'm a Computer Science and Engineering student at Kalinga Institute of Industrial Technology, currently in my third year. I hail from Kolkata, West Bengal but am currently residing in Bhubaneswar, Odisha.
 
 ## 💻 Technical Skills
