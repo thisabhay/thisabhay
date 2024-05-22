@@ -36,7 +36,6 @@ I'm a Computer Science and Engineering student at Kalinga Institute of Industria
 <div>
   <p align="center">
     <img src="https://myreadme.vercel.app/api/embed/thisabhay?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-    <img src="https://github-readme-stats.vercel.app/api?username=thisabhay&theme=dark&show_icons=true" alt="Abhay Gupta's GitHub Stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thisabhay&theme=dark" alt="Abhay Gupta's GitHub Streak Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thisabhay&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
   </p>
 </div>
